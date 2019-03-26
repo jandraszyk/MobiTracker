@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Praca\MobiTracker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c49cb40c006c8acb12b21d908a76c1592ab935a1">
+        <dex dex="F:\Praca\MobiTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7b968f37156a74f19fa575256da5924a1955f340\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JA\.android\build-cache\ae6af1c7343c023c246caf651b729496c807cb1e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\Praca\MobiTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98c5d4c853692247327ad2c5c3bdba79bae891a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JA\.android\build-cache\c9824074d56b6417588ea7da6dbfb321116ee38a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\Praca\MobiTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ea0888567f3d55c02cdfc5fdc6b1e5f316e51b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JA\.android\build-cache\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\Praca\MobiTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ca9b14de248676018c241f58c9191fa0bdd3e79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JA\.android\build-cache\ac8118a5d6779c17fb15946f0c1d4f8fab64a59c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Praca\MobiTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_727495df8824b02c0818322b66c05179824638ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JA\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\Praca\MobiTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_d82c1fe3706ff71edb58dfc8ac83c35e4f45483f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JA\.android\build-cache\0e729cf24b0f7bc67ef6bcc5ea54ea23e4480407\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\Praca\MobiTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7592e473f200d9424488d96eff71a22a41b3681b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Praca\MobiTracker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\Praca\MobiTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_51ea391a0b1141f89b765e3d19daf929e162e814\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JA\.android\build-cache\4939586d3f45dba5a1ba400b0779852ce27da540\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\Praca\MobiTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_977f17a1f4c04979b816c00ee9f145ce6e435ceb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JA\.android\build-cache\a1a2307e76102997a7f044343974e81f87c2a28e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\Praca\MobiTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf38828f4c6417818c294e05ef78b9c32852654d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JA\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\Praca\MobiTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_7a7b33ccc072d18a45c97323198068dab352ac16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JA\.android\build-cache\9ea3d16415a3e0908fd16c22cd53fd758e6414a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\Praca\MobiTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b18831a6c2d936c4ad703f0732dbb2bbe83737c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JA\.android\build-cache\252bf08776755f1a3c3f0b5fb660922553a15d35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\Praca\MobiTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7afa6f583f57ffba33ca2c9bc2fc47828ea153b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JA\.android\build-cache\8ddaadded9a6b0f5965019a4b4a2dabff6da76de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\Praca\MobiTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88a7657c4b0e5de98568f7b4366e449d3a01ce0f\classes.dex" />
+    </item>
+
+</items>

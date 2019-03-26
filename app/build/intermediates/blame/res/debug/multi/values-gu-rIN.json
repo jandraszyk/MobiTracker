@@ -1,0 +1,4042 @@
+[
+    {
+        "outputFile": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu-rIN\\values-gu-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 108,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 108,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 107,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 122,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 103,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 103,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 106,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 106,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 86,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 86,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 100,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 100,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 122,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 122,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 76,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 76,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 77,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 77,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 79,
+                    "endOffset": 1147
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1072,
+                        "endColumn": 79,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1152,
+                    "endColumn": 105,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 105,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 101,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 101,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 96,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 96,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 108,
+                    "endOffset": 1561
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1457,
+                        "endColumn": 108,
+                        "endOffset": 1561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1566,
+                    "endColumn": 98,
+                    "endOffset": 1660
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1566,
+                        "endColumn": 98,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1665,
+                    "endColumn": 109,
+                    "endOffset": 1770
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1665,
+                        "endColumn": 109,
+                        "endOffset": 1770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1775,
+                    "endColumn": 120,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1775,
+                        "endColumn": 120,
+                        "endOffset": 1891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1896,
+                    "endColumn": 102,
+                    "endOffset": 1994
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1896,
+                        "endColumn": 102,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1999,
+                    "endColumn": 79,
+                    "endOffset": 2074
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endColumn": 79,
+                        "endOffset": 2074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2079,
+                    "endColumn": 100,
+                    "endOffset": 2175
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2079,
+                        "endColumn": 100,
+                        "endOffset": 2175
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu-rIN\\values-gu-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 108,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 108,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 107,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 122,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 103,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 103,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 106,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 106,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 86,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 86,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 100,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 100,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 122,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 122,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 76,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 76,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 77,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 77,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 79,
+                    "endOffset": 1147
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1072,
+                        "endColumn": 79,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1152,
+                    "endColumn": 105,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 105,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 101,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 101,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 96,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 96,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 108,
+                    "endOffset": 1561
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1457,
+                        "endColumn": 108,
+                        "endOffset": 1561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1566,
+                    "endColumn": 98,
+                    "endOffset": 1660
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1566,
+                        "endColumn": 98,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1665,
+                    "endColumn": 109,
+                    "endOffset": 1770
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1665,
+                        "endColumn": 109,
+                        "endOffset": 1770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1775,
+                    "endColumn": 120,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1775,
+                        "endColumn": 120,
+                        "endOffset": 1891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1896,
+                    "endColumn": 102,
+                    "endOffset": 1994
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1896,
+                        "endColumn": 102,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1999,
+                    "endColumn": 79,
+                    "endOffset": 2074
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endColumn": 79,
+                        "endOffset": 2074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2079,
+                    "endColumn": 100,
+                    "endOffset": 2175
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2079,
+                        "endColumn": 100,
+                        "endOffset": 2175
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu-rIN\\values-gu-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 108,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 108,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 107,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 122,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 103,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 103,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 106,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 106,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 86,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 86,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 100,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 100,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 122,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 122,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 76,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 76,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 77,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 77,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 79,
+                    "endOffset": 1147
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1072,
+                        "endColumn": 79,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1152,
+                    "endColumn": 105,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 105,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 101,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 101,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 96,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 96,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 108,
+                    "endOffset": 1561
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1457,
+                        "endColumn": 108,
+                        "endOffset": 1561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1566,
+                    "endColumn": 98,
+                    "endOffset": 1660
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1566,
+                        "endColumn": 98,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1665,
+                    "endColumn": 109,
+                    "endOffset": 1770
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1665,
+                        "endColumn": 109,
+                        "endOffset": 1770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1775,
+                    "endColumn": 120,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1775,
+                        "endColumn": 120,
+                        "endOffset": 1891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1896,
+                    "endColumn": 102,
+                    "endOffset": 1994
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1896,
+                        "endColumn": 102,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1999,
+                    "endColumn": 79,
+                    "endOffset": 2074
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endColumn": 79,
+                        "endOffset": 2074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2079,
+                    "endColumn": 100,
+                    "endOffset": 2175
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2079,
+                        "endColumn": 100,
+                        "endOffset": 2175
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu-rIN\\values-gu-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 108,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 108,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 107,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 122,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 103,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 103,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 106,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 106,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 86,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 86,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 100,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 100,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 122,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 122,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 76,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 76,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 77,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 77,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 79,
+                    "endOffset": 1147
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1072,
+                        "endColumn": 79,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1152,
+                    "endColumn": 105,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 105,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 101,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 101,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 96,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 96,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 108,
+                    "endOffset": 1561
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1457,
+                        "endColumn": 108,
+                        "endOffset": 1561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1566,
+                    "endColumn": 98,
+                    "endOffset": 1660
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1566,
+                        "endColumn": 98,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1665,
+                    "endColumn": 109,
+                    "endOffset": 1770
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1665,
+                        "endColumn": 109,
+                        "endOffset": 1770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1775,
+                    "endColumn": 120,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1775,
+                        "endColumn": 120,
+                        "endOffset": 1891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1896,
+                    "endColumn": 102,
+                    "endOffset": 1994
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1896,
+                        "endColumn": 102,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1999,
+                    "endColumn": 79,
+                    "endOffset": 2074
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endColumn": 79,
+                        "endOffset": 2074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2079,
+                    "endColumn": 100,
+                    "endOffset": 2175
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2079,
+                        "endColumn": 100,
+                        "endOffset": 2175
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu-rIN\\values-gu-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 108,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 108,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 107,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 122,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 103,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 103,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 106,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 106,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 86,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 86,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 100,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 100,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 122,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 122,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 76,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 76,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 77,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 77,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 79,
+                    "endOffset": 1147
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1072,
+                        "endColumn": 79,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1152,
+                    "endColumn": 105,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 105,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 101,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 101,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 96,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 96,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 108,
+                    "endOffset": 1561
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1457,
+                        "endColumn": 108,
+                        "endOffset": 1561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1566,
+                    "endColumn": 98,
+                    "endOffset": 1660
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1566,
+                        "endColumn": 98,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1665,
+                    "endColumn": 109,
+                    "endOffset": 1770
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1665,
+                        "endColumn": 109,
+                        "endOffset": 1770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1775,
+                    "endColumn": 120,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1775,
+                        "endColumn": 120,
+                        "endOffset": 1891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1896,
+                    "endColumn": 102,
+                    "endOffset": 1994
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1896,
+                        "endColumn": 102,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1999,
+                    "endColumn": 79,
+                    "endOffset": 2074
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endColumn": 79,
+                        "endOffset": 2074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2079,
+                    "endColumn": 100,
+                    "endOffset": 2175
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2079,
+                        "endColumn": 100,
+                        "endOffset": 2175
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu-rIN\\values-gu-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 108,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 108,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 107,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 122,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 103,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 103,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 106,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 106,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 86,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 86,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 100,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 100,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 122,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 122,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 76,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 76,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 77,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 77,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 79,
+                    "endOffset": 1147
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1072,
+                        "endColumn": 79,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1152,
+                    "endColumn": 105,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 105,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 101,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 101,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 96,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 96,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 108,
+                    "endOffset": 1561
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1457,
+                        "endColumn": 108,
+                        "endOffset": 1561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1566,
+                    "endColumn": 98,
+                    "endOffset": 1660
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1566,
+                        "endColumn": 98,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1665,
+                    "endColumn": 109,
+                    "endOffset": 1770
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1665,
+                        "endColumn": 109,
+                        "endOffset": 1770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1775,
+                    "endColumn": 120,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1775,
+                        "endColumn": 120,
+                        "endOffset": 1891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1896,
+                    "endColumn": 102,
+                    "endOffset": 1994
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1896,
+                        "endColumn": 102,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1999,
+                    "endColumn": 79,
+                    "endOffset": 2074
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endColumn": 79,
+                        "endOffset": 2074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2079,
+                    "endColumn": 100,
+                    "endOffset": 2175
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2079,
+                        "endColumn": 100,
+                        "endOffset": 2175
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu-rIN\\values-gu-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 108,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 108,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 107,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 122,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 103,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 103,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 106,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 106,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 86,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 86,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 100,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 100,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 122,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 122,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 76,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 76,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 77,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 77,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 79,
+                    "endOffset": 1147
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1072,
+                        "endColumn": 79,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1152,
+                    "endColumn": 105,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 105,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 101,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 101,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 96,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 96,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 108,
+                    "endOffset": 1561
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1457,
+                        "endColumn": 108,
+                        "endOffset": 1561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1566,
+                    "endColumn": 98,
+                    "endOffset": 1660
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1566,
+                        "endColumn": 98,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1665,
+                    "endColumn": 109,
+                    "endOffset": 1770
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1665,
+                        "endColumn": 109,
+                        "endOffset": 1770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1775,
+                    "endColumn": 120,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1775,
+                        "endColumn": 120,
+                        "endOffset": 1891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1896,
+                    "endColumn": 102,
+                    "endOffset": 1994
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1896,
+                        "endColumn": 102,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1999,
+                    "endColumn": 79,
+                    "endOffset": 2074
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endColumn": 79,
+                        "endOffset": 2074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2079,
+                    "endColumn": 100,
+                    "endOffset": 2175
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2079,
+                        "endColumn": 100,
+                        "endOffset": 2175
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu-rIN\\values-gu-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 108,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 108,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 107,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 122,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 103,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 103,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 106,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 106,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 86,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 86,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 100,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 100,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 122,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 122,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 76,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 76,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 77,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 77,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 79,
+                    "endOffset": 1147
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1072,
+                        "endColumn": 79,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1152,
+                    "endColumn": 105,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 105,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 101,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 101,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 96,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 96,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 108,
+                    "endOffset": 1561
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1457,
+                        "endColumn": 108,
+                        "endOffset": 1561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1566,
+                    "endColumn": 98,
+                    "endOffset": 1660
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1566,
+                        "endColumn": 98,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1665,
+                    "endColumn": 109,
+                    "endOffset": 1770
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1665,
+                        "endColumn": 109,
+                        "endOffset": 1770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1775,
+                    "endColumn": 120,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1775,
+                        "endColumn": 120,
+                        "endOffset": 1891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1896,
+                    "endColumn": 102,
+                    "endOffset": 1994
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1896,
+                        "endColumn": 102,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1999,
+                    "endColumn": 79,
+                    "endOffset": 2074
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endColumn": 79,
+                        "endOffset": 2074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2079,
+                    "endColumn": 100,
+                    "endOffset": 2175
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2079,
+                        "endColumn": 100,
+                        "endOffset": 2175
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu-rIN\\values-gu-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 108,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 108,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 107,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 122,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 103,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 103,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 106,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 106,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 86,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 86,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 100,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 100,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 122,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 122,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 76,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 76,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 77,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 77,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 79,
+                    "endOffset": 1147
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1072,
+                        "endColumn": 79,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1152,
+                    "endColumn": 105,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 105,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 101,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 101,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 96,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 96,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 108,
+                    "endOffset": 1561
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1457,
+                        "endColumn": 108,
+                        "endOffset": 1561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1566,
+                    "endColumn": 98,
+                    "endOffset": 1660
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1566,
+                        "endColumn": 98,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1665,
+                    "endColumn": 109,
+                    "endOffset": 1770
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1665,
+                        "endColumn": 109,
+                        "endOffset": 1770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1775,
+                    "endColumn": 120,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1775,
+                        "endColumn": 120,
+                        "endOffset": 1891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1896,
+                    "endColumn": 102,
+                    "endOffset": 1994
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1896,
+                        "endColumn": 102,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1999,
+                    "endColumn": 79,
+                    "endOffset": 2074
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endColumn": 79,
+                        "endOffset": 2074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2079,
+                    "endColumn": 100,
+                    "endOffset": 2175
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2079,
+                        "endColumn": 100,
+                        "endOffset": 2175
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu-rIN\\values-gu-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 108,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 108,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 107,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 122,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 103,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 103,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 106,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 106,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 86,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 86,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 100,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 100,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 122,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 122,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 76,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 76,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 77,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 77,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 79,
+                    "endOffset": 1147
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1072,
+                        "endColumn": 79,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1152,
+                    "endColumn": 105,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 105,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 101,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 101,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 96,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 96,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 108,
+                    "endOffset": 1561
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1457,
+                        "endColumn": 108,
+                        "endOffset": 1561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1566,
+                    "endColumn": 98,
+                    "endOffset": 1660
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1566,
+                        "endColumn": 98,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1665,
+                    "endColumn": 109,
+                    "endOffset": 1770
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1665,
+                        "endColumn": 109,
+                        "endOffset": 1770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1775,
+                    "endColumn": 120,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1775,
+                        "endColumn": 120,
+                        "endOffset": 1891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1896,
+                    "endColumn": 102,
+                    "endOffset": 1994
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1896,
+                        "endColumn": 102,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1999,
+                    "endColumn": 79,
+                    "endOffset": 2074
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endColumn": 79,
+                        "endOffset": 2074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2079,
+                    "endColumn": 100,
+                    "endOffset": 2175
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-gu-rIN\\values-gu-rIN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2079,
+                        "endColumn": 100,
+                        "endOffset": 2175
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MobiTracker</string>
+    <string name="help">HELP</string>
+    <string name="connect_devices">CONNECT DEVICES</string>
+    <string name="search">SEARCH</string>
+    <string name="disconnect">DISCONNECT</string>
+    <string name="stop">STOP MONITORING</string>
+    <string name="start">START MONITORING</string>
+    <string name="watch_on_baby">WATCH</string>
+    <string name="listen_to_baby">LISTEN</string>
+    <string name="stop_watching">STOP WATCHING</string>
+    <string name="stop_listening">STOP LISTENING</string>
+    <string name="start_recording">START RECORDING</string>
+    <string name="stop_recording">STOP RECORDING</string>
+    <string name="txt_listen">Listening in progress</string>
+    <string name="txt_monitoring">Monitoring in progress</string>
+    <string name="txt_watching">Watching in progress</string>
+</resources>

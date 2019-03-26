@@ -1,0 +1,1650 @@
+[
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_button_light.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cryingface.png",
+        "source": "D:\\Praca inzynierska\\WiFiDirect\\app\\src\\main\\res\\drawable\\cryingface.png"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cryingface.png",
+        "source": "F:\\Praca\\MobiTracker\\app\\src\\main\\res\\drawable\\cryingface.png"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_expand.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_group_expand.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cryingface.png",
+        "source": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\src\\main\\res\\drawable\\cryingface.png"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e19373bb29ee5d034995f44cbd588126481b1420\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_media_play_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cryingface.png",
+        "source": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\src\\main\\res\\drawable\\cryingface.png"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cryingface.png",
+        "source": "E:\\Praca inz\\WiFiDirect\\app\\src\\main\\res\\drawable\\cryingface.png"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_button_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_stop_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_media_stop_light.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_dialog_close_light.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_stop_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_media_stop_dark.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_media_pause_light.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_media_play_light.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_button_connected_light.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cryingface.png",
+        "source": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\src\\main\\res\\drawable\\cryingface.png"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cryingface.png",
+        "source": "G:\\Praca inzynierska\\WiFiDirect\\app\\src\\main\\res\\drawable\\cryingface.png"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e19373bb29ee5d034995f44cbd588126481b1420\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_vol_type_audiotrack_dark.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cryingface.png",
+        "source": "F:\\Praca inz\\WiFiDirect\\app\\src\\main\\res\\drawable\\cryingface.png"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cryingface.png",
+        "source": "E:\\Praca inz\\MobiTracker\\app\\src\\main\\res\\drawable\\cryingface.png"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_collapse.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_group_collapse.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\374d2ef54bfe418ce0a88265e49bd80e86bd5f1b\\output\\res\\drawable\\mr_button_connecting_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cryingface.png",
+        "source": "E:\\Praca\\MobiTracker\\app\\src\\main\\res\\drawable\\cryingface.png"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    }
+]

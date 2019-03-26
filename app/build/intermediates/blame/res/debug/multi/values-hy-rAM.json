@@ -1,0 +1,4042 @@
+[
+    {
+        "outputFile": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 102,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 102,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 107,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 107,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 122,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 122,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 100,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 100,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 109,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 109,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 88,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 88,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 105,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 105,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 114,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 114,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 81,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 81,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 80,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 80,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 84,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 84,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 106,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 106,
+                        "endOffset": 1260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 106,
+                    "endOffset": 1367
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endColumn": 106,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1372,
+                    "endColumn": 98,
+                    "endOffset": 1466
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 98,
+                        "endOffset": 1466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1471,
+                    "endColumn": 109,
+                    "endOffset": 1576
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1471,
+                        "endColumn": 109,
+                        "endOffset": 1576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1581,
+                    "endColumn": 106,
+                    "endOffset": 1683
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1581,
+                        "endColumn": 106,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1688,
+                    "endColumn": 99,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 99,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endColumn": 124,
+                    "endOffset": 1908
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1788,
+                        "endColumn": 124,
+                        "endOffset": 1908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1913,
+                    "endColumn": 98,
+                    "endOffset": 2007
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1913,
+                        "endColumn": 98,
+                        "endOffset": 2007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2012,
+                    "endColumn": 81,
+                    "endOffset": 2089
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2012,
+                        "endColumn": 81,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2094,
+                    "endColumn": 100,
+                    "endOffset": 2190
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2094,
+                        "endColumn": 100,
+                        "endOffset": 2190
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 102,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 102,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 107,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 107,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 122,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 122,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 100,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 100,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 109,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 109,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 88,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 88,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 105,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 105,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 114,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 114,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 81,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 81,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 80,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 80,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 84,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 84,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 106,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 106,
+                        "endOffset": 1260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 106,
+                    "endOffset": 1367
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endColumn": 106,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1372,
+                    "endColumn": 98,
+                    "endOffset": 1466
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 98,
+                        "endOffset": 1466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1471,
+                    "endColumn": 109,
+                    "endOffset": 1576
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1471,
+                        "endColumn": 109,
+                        "endOffset": 1576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1581,
+                    "endColumn": 106,
+                    "endOffset": 1683
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1581,
+                        "endColumn": 106,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1688,
+                    "endColumn": 99,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 99,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endColumn": 124,
+                    "endOffset": 1908
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1788,
+                        "endColumn": 124,
+                        "endOffset": 1908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1913,
+                    "endColumn": 98,
+                    "endOffset": 2007
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1913,
+                        "endColumn": 98,
+                        "endOffset": 2007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2012,
+                    "endColumn": 81,
+                    "endOffset": 2089
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2012,
+                        "endColumn": 81,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2094,
+                    "endColumn": 100,
+                    "endOffset": 2190
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2094,
+                        "endColumn": 100,
+                        "endOffset": 2190
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 102,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 102,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 107,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 107,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 122,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 122,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 100,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 100,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 109,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 109,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 88,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 88,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 105,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 105,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 114,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 114,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 81,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 81,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 80,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 80,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 84,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 84,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 106,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 106,
+                        "endOffset": 1260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 106,
+                    "endOffset": 1367
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endColumn": 106,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1372,
+                    "endColumn": 98,
+                    "endOffset": 1466
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 98,
+                        "endOffset": 1466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1471,
+                    "endColumn": 109,
+                    "endOffset": 1576
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1471,
+                        "endColumn": 109,
+                        "endOffset": 1576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1581,
+                    "endColumn": 106,
+                    "endOffset": 1683
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1581,
+                        "endColumn": 106,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1688,
+                    "endColumn": 99,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 99,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endColumn": 124,
+                    "endOffset": 1908
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1788,
+                        "endColumn": 124,
+                        "endOffset": 1908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1913,
+                    "endColumn": 98,
+                    "endOffset": 2007
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1913,
+                        "endColumn": 98,
+                        "endOffset": 2007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2012,
+                    "endColumn": 81,
+                    "endOffset": 2089
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2012,
+                        "endColumn": 81,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2094,
+                    "endColumn": 100,
+                    "endOffset": 2190
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2094,
+                        "endColumn": 100,
+                        "endOffset": 2190
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 102,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 102,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 107,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 107,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 122,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 122,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 100,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 100,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 109,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 109,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 88,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 88,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 105,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 105,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 114,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 114,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 81,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 81,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 80,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 80,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 84,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 84,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 106,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 106,
+                        "endOffset": 1260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 106,
+                    "endOffset": 1367
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endColumn": 106,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1372,
+                    "endColumn": 98,
+                    "endOffset": 1466
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 98,
+                        "endOffset": 1466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1471,
+                    "endColumn": 109,
+                    "endOffset": 1576
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1471,
+                        "endColumn": 109,
+                        "endOffset": 1576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1581,
+                    "endColumn": 106,
+                    "endOffset": 1683
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1581,
+                        "endColumn": 106,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1688,
+                    "endColumn": 99,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 99,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endColumn": 124,
+                    "endOffset": 1908
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1788,
+                        "endColumn": 124,
+                        "endOffset": 1908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1913,
+                    "endColumn": 98,
+                    "endOffset": 2007
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1913,
+                        "endColumn": 98,
+                        "endOffset": 2007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2012,
+                    "endColumn": 81,
+                    "endOffset": 2089
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2012,
+                        "endColumn": 81,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2094,
+                    "endColumn": 100,
+                    "endOffset": 2190
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2094,
+                        "endColumn": 100,
+                        "endOffset": 2190
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 102,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 102,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 107,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 107,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 122,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 122,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 100,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 100,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 109,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 109,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 88,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 88,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 105,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 105,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 114,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 114,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 81,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 81,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 80,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 80,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 84,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 84,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 106,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 106,
+                        "endOffset": 1260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 106,
+                    "endOffset": 1367
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endColumn": 106,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1372,
+                    "endColumn": 98,
+                    "endOffset": 1466
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 98,
+                        "endOffset": 1466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1471,
+                    "endColumn": 109,
+                    "endOffset": 1576
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1471,
+                        "endColumn": 109,
+                        "endOffset": 1576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1581,
+                    "endColumn": 106,
+                    "endOffset": 1683
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1581,
+                        "endColumn": 106,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1688,
+                    "endColumn": 99,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 99,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endColumn": 124,
+                    "endOffset": 1908
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1788,
+                        "endColumn": 124,
+                        "endOffset": 1908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1913,
+                    "endColumn": 98,
+                    "endOffset": 2007
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1913,
+                        "endColumn": 98,
+                        "endOffset": 2007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2012,
+                    "endColumn": 81,
+                    "endOffset": 2089
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2012,
+                        "endColumn": 81,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2094,
+                    "endColumn": 100,
+                    "endOffset": 2190
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2094,
+                        "endColumn": 100,
+                        "endOffset": 2190
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 102,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 102,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 107,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 107,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 122,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 122,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 100,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 100,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 109,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 109,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 88,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 88,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 105,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 105,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 114,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 114,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 81,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 81,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 80,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 80,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 84,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 84,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 106,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 106,
+                        "endOffset": 1260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 106,
+                    "endOffset": 1367
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endColumn": 106,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1372,
+                    "endColumn": 98,
+                    "endOffset": 1466
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 98,
+                        "endOffset": 1466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1471,
+                    "endColumn": 109,
+                    "endOffset": 1576
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1471,
+                        "endColumn": 109,
+                        "endOffset": 1576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1581,
+                    "endColumn": 106,
+                    "endOffset": 1683
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1581,
+                        "endColumn": 106,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1688,
+                    "endColumn": 99,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 99,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endColumn": 124,
+                    "endOffset": 1908
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1788,
+                        "endColumn": 124,
+                        "endOffset": 1908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1913,
+                    "endColumn": 98,
+                    "endOffset": 2007
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1913,
+                        "endColumn": 98,
+                        "endOffset": 2007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2012,
+                    "endColumn": 81,
+                    "endOffset": 2089
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2012,
+                        "endColumn": 81,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2094,
+                    "endColumn": 100,
+                    "endOffset": 2190
+                },
+                "from": {
+                    "file": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2094,
+                        "endColumn": 100,
+                        "endOffset": 2190
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 102,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 102,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 107,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 107,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 122,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 122,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 100,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 100,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 109,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 109,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 88,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 88,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 105,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 105,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 114,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 114,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 81,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 81,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 80,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 80,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 84,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 84,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 106,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 106,
+                        "endOffset": 1260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 106,
+                    "endOffset": 1367
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endColumn": 106,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1372,
+                    "endColumn": 98,
+                    "endOffset": 1466
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 98,
+                        "endOffset": 1466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1471,
+                    "endColumn": 109,
+                    "endOffset": 1576
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1471,
+                        "endColumn": 109,
+                        "endOffset": 1576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1581,
+                    "endColumn": 106,
+                    "endOffset": 1683
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1581,
+                        "endColumn": 106,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1688,
+                    "endColumn": 99,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 99,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endColumn": 124,
+                    "endOffset": 1908
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1788,
+                        "endColumn": 124,
+                        "endOffset": 1908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1913,
+                    "endColumn": 98,
+                    "endOffset": 2007
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1913,
+                        "endColumn": 98,
+                        "endOffset": 2007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2012,
+                    "endColumn": 81,
+                    "endOffset": 2089
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2012,
+                        "endColumn": 81,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2094,
+                    "endColumn": 100,
+                    "endOffset": 2190
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2094,
+                        "endColumn": 100,
+                        "endOffset": 2190
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 102,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 102,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 107,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 107,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 122,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 122,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 100,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 100,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 109,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 109,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 88,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 88,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 105,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 105,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 114,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 114,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 81,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 81,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 80,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 80,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 84,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 84,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 106,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 106,
+                        "endOffset": 1260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 106,
+                    "endOffset": 1367
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endColumn": 106,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1372,
+                    "endColumn": 98,
+                    "endOffset": 1466
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 98,
+                        "endOffset": 1466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1471,
+                    "endColumn": 109,
+                    "endOffset": 1576
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1471,
+                        "endColumn": 109,
+                        "endOffset": 1576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1581,
+                    "endColumn": 106,
+                    "endOffset": 1683
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1581,
+                        "endColumn": 106,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1688,
+                    "endColumn": 99,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 99,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endColumn": 124,
+                    "endOffset": 1908
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1788,
+                        "endColumn": 124,
+                        "endOffset": 1908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1913,
+                    "endColumn": 98,
+                    "endOffset": 2007
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1913,
+                        "endColumn": 98,
+                        "endOffset": 2007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2012,
+                    "endColumn": 81,
+                    "endOffset": 2089
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2012,
+                        "endColumn": 81,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2094,
+                    "endColumn": 100,
+                    "endOffset": 2190
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2094,
+                        "endColumn": 100,
+                        "endOffset": 2190
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 102,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 102,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 107,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 107,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 122,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 122,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 100,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 100,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 109,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 109,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 88,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 88,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 105,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 105,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 114,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 114,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 81,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 81,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 80,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 80,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 84,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 84,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 106,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 106,
+                        "endOffset": 1260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 106,
+                    "endOffset": 1367
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endColumn": 106,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1372,
+                    "endColumn": 98,
+                    "endOffset": 1466
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 98,
+                        "endOffset": 1466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1471,
+                    "endColumn": 109,
+                    "endOffset": 1576
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1471,
+                        "endColumn": 109,
+                        "endOffset": 1576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1581,
+                    "endColumn": 106,
+                    "endOffset": 1683
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1581,
+                        "endColumn": 106,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1688,
+                    "endColumn": 99,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 99,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endColumn": 124,
+                    "endOffset": 1908
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1788,
+                        "endColumn": 124,
+                        "endOffset": 1908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1913,
+                    "endColumn": 98,
+                    "endOffset": 2007
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1913,
+                        "endColumn": 98,
+                        "endOffset": 2007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2012,
+                    "endColumn": 81,
+                    "endOffset": 2089
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2012,
+                        "endColumn": 81,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2094,
+                    "endColumn": 100,
+                    "endOffset": 2190
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2094,
+                        "endColumn": 100,
+                        "endOffset": 2190
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 102,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 102,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 107,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 107,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 122,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 122,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 100,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 100,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 109,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 109,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 88,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 88,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 105,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 105,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 114,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 114,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 81,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 81,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 80,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 80,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 84,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 84,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 106,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 106,
+                        "endOffset": 1260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 106,
+                    "endOffset": 1367
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endColumn": 106,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1372,
+                    "endColumn": 98,
+                    "endOffset": 1466
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 98,
+                        "endOffset": 1466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1471,
+                    "endColumn": 109,
+                    "endOffset": 1576
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1471,
+                        "endColumn": 109,
+                        "endOffset": 1576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1581,
+                    "endColumn": 106,
+                    "endOffset": 1683
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1581,
+                        "endColumn": 106,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1688,
+                    "endColumn": 99,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 99,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endColumn": 124,
+                    "endOffset": 1908
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1788,
+                        "endColumn": 124,
+                        "endOffset": 1908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1913,
+                    "endColumn": 98,
+                    "endOffset": 2007
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1913,
+                        "endColumn": 98,
+                        "endOffset": 2007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2012,
+                    "endColumn": 81,
+                    "endOffset": 2089
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2012,
+                        "endColumn": 81,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2094,
+                    "endColumn": 100,
+                    "endOffset": 2190
+                },
+                "from": {
+                    "file": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2094,
+                        "endColumn": 100,
+                        "endOffset": 2190
+                    }
+                }
+            }
+        ]
+    }
+]

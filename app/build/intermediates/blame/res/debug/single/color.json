@@ -1,0 +1,802 @@
+[
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Janek\\Desktop\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\7732f95030b80d48ae38021c40321411368fadc5\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\Projekty_Android_Studio\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\Projekty_Android_Studio\\MobiNanny\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Praca\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\JA\\.android\\build-cache\\eed0cc0180f368fbeedbb0e52fd538a9f92d9c23\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "F:\\Praca inz\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\16ddf5d1e165e954d4e28a93be4e12703d232a30\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\Praca inz\\MobiTracker\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\92e95357aae295c48632f26ec83dbc8308d35469\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "G:\\Praca inzynierska\\WiFiDirect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Janek\\.android\\build-cache\\e3b8b28d469ef50877f2c4d70079413a5e917bc4\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    }
+]

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    tools:context="com.example.janek.wifidirect.MonitorActivity">
+
+
+    <TextView
+        android:id="@+id/txt_state"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:text="@string/txt_monitoring"
+        android:textColor="@color/colorText"
+        android:textSize="24sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_state"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:visibility="invisible" />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/bt_stop"
+        android:layout_below="@+id/progressBar">
+        <VideoView android:id="@+id/surfaceView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/bt_stop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorText"
+        android:text="@string/start"
+        android:layout_above="@+id/bt_video"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="48dp" />
+
+    <Button
+        android:id="@+id/bt_video"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/bt_stop"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/bt_stop"
+        android:layout_marginBottom="55dp"
+        android:text="START RECORDING"
+        android:textColor="@color/colorText" />
+
+</RelativeLayout>

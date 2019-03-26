@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    tools:context="com.example.janek.wifidirect.ParentActivity">
+
+    <ImageView
+        android:id="@+id/iv_sound"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_x="171dp"
+        android:layout_y="208dp"
+        app:srcCompat="@mipmap/ic_sound_1" />
+
+    <Button
+        android:id="@+id/bt_listen"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:elevation="10dp"
+        android:text="@string/listen_to_baby"
+        android:textColor="@color/colorText" />
+
+    <Button
+        android:id="@+id/bt_watch"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/bt_listen"
+        android:elevation="10dp"
+        android:text="@string/watch_on_baby"
+        android:textColor="@color/colorText" />
+
+    <TextView
+        android:id="@+id/txt_state"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:text="@string/txt_monitoring"
+        android:textColor="@color/colorText"
+        android:textSize="24sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bt_listen"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txt_state" />
+
+
+</RelativeLayout>
